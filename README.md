@@ -18,7 +18,13 @@ I had plans to design and 3D Print a case for this but due to time contrains tha
 Fusing resistors into stems of LEDs and soldering to make it neat!
 
 # Setup
+The thing set up inside the mosque
+
+![image](https://user-images.githubusercontent.com/82392157/170874654-e522e17c-0d88-4ce5-b39d-7a11094e32cc.png)
+
+The tablet in the sisters side.
 ![image](https://user-images.githubusercontent.com/82392157/170874230-c37daa16-8fa6-4d44-b33a-d2ec4c5bd7d1.png)
+
 ![image](https://user-images.githubusercontent.com/82392157/170874235-e0a92d4d-a7ff-46c2-8f28-19142978b0ed.png)
 
 
